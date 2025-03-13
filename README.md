@@ -17,6 +17,18 @@
 
 ---
 
+
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="https://www.instagram.com/vsnu4in" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 12px;">
+  </a>
+  <a href="https://www.linkedin.com/in/vsnu02" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px;">
+  </a>
+</p>
+
+
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,21 +47,22 @@
 
 ---
 
-## 🚀 Projects  
-🔹 **WiFi-Based Solar Car** – Smart solar-powered vehicle with remote control  
-🔹 **WiFi-Bluetooth Deauther Device** – Ethical hacking tool for security testing  
+## 📌 Featured Projects  
+
+🚗 **WiFi-Based Solar Car**  
+🔹 A smart solar-powered vehicle controlled via WiFi.  
+
+📡 **WiFi-Bluetooth Deauther Device**  
+🔹 A security tool for testing network vulnerabilities.  
+
+🛡️ **Safety App**  
+🔹 Emergency helpline & security features for instant help.  
+
+💡 **DiffuseAI Innovations**  
+🔹 AI-driven projects exploring automation & deep learning.  
 
 ---
 
-## 🌍 Connect With Me  
-<p align="center">
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 12px;">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px;">
-  </a>
-</p>
 
 ---
 
