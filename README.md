@@ -19,7 +19,7 @@
 
 
 ## 🌍 Connect With Me  
-<p align="center">
+<p>
   <a href="https://www.instagram.com/vsnu4in" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 12px;">
   </a>
@@ -42,6 +42,8 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnusudharsan&show_icons=true&theme=tokyonight" height="165">
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusudharsan&layout=compact&theme=tokyonight" height="165">
 </p>
 
