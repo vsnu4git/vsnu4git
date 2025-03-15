@@ -17,7 +17,7 @@
 
 ---
 
-## 🌍 Connect With Me  
+## 🪽 Connect With Me  
 <p>
   <a href="https://www.instagram.com/vsnu4in" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" style="border-radius: 12px;">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🪽 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-FFFFFF?style=for-the-badge&logo=arduino&logoColor=black)
@@ -39,7 +39,7 @@
 
 ---
 
-📊 GitHub Stats
+🪽 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsnu4git&show_icons=true&theme=graywhite&hide_border=true" height="170"> <img src="https://streak-stats.demolab.com/?user=vsnu4git&theme=graywhite&hide_border=true" height="170"> 
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsnu4git&theme=github&hide_border=true" width="100%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=graywhite" width="100%"> 
@@ -49,7 +49,7 @@
 ---
 
 
-## 📌 Featured Projects  
+## 🪽 Featured Projects  
 
 🚗 **WiFi-Based Solar Car**  
 🔹 A smart solar-powered vehicle controlled via WiFi.  
@@ -65,4 +65,4 @@
 
 ---
 
-💡 *"Behind the Curtain of Words"*
+🪽 *"Behind the Curtain of Words"*
