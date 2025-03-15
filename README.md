@@ -40,7 +40,7 @@
 ---
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsnu4git&show_icons=true&theme=graywhite&hide_border=true" height="140"> <img src="https://streak-stats.demolab.com/?user=vsnu4git&theme=graywhite&hide_border=true" height="140"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsnu4git&theme=github&hide_border=true" width="80%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=graywhite" width="80%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=graywhite" height="200"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=graywhite" height="200"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsnu4git&show_icons=true&theme=graywhite&hide_border=true" height="130"> <img src="https://streak-stats.demolab.com/?user=vsnu4git&theme=graywhite&hide_border=true" height="130"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsnu4git&theme=github&hide_border=true" width="80%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=graywhite" width="80%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=graywhite" height="200"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=graywhite" height="200"> </div>
 
 ---
 
