@@ -42,21 +42,21 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsnu4git&show_icons=true&theme=radical&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com/?user=vsnu4git&theme=radical&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vsnu4git&theme=react-dark&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=radical">
 </p>
 
 ---
