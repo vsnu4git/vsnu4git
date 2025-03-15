@@ -44,7 +44,7 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsnu4git&theme=github&hide_border=true" width="100%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=graywhite" width="100%"> 
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=graywhite" height="240"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=graywhite" height="240"> </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=graywhite" height="250"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=graywhite" height="250"> </div>
 
 ---
 
