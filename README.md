@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🧠 AI Developer | 🔬 Tech & Science Enthusiast | ⚙️ Robotics & IoT Enthusiast
+  🪩 AI Developer | 🔬 Tech & Science Enthusiast | ⚙️ Robotics & IoT Enthusiast
 </p>
 
 ---
