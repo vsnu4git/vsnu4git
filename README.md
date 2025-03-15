@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="87877-removebg-preview.png" alt="DiffuseAI Logo" width="24"> CTO of DiffuseAI
+  <img src="87877-removebg-preview.png" alt="DiffuseAI Logo" width="24">CTO of DiffuseAi
 </h1>
 
 <p align="center">
@@ -44,7 +44,7 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsnu4git&theme=github&hide_border=true" width="100%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=graywhite" width="100%"> 
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=graywhite" height="248"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=graywhite" height="248"> </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=graywhite" height="247"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=graywhite" height="247"> </div>
 
 ---
 
