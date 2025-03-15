@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsnu4git&show_icons=true&theme=matrix&hide_border=true" height="165">
-  <img src="https://streak-stats.demolab.com/?user=vsnu4git&theme=matrix&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsnu4git&show_icons=true&theme=matrix&hide_border=true" height="180">
+  <img src="https://streak-stats.demolab.com/?user=vsnu4git&theme=matrix&hide_border=true" height="180">
 </p>
 
 <p align="center">
@@ -51,13 +51,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=monokai">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=monokai">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsnu4git&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsnu4git&theme=monokai" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsnu4git&theme=monokai" height="150">
 </p>
+
 
 
 ---
