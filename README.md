@@ -30,12 +30,12 @@
 ---
 
 ## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-FFFFFF?style=for-the-badge&logo=arduino&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-FFFFFF?style=for-the-badge&logo=raspberry%20pi&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
 
 ---
 
