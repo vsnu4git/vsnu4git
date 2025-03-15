@@ -8,7 +8,7 @@
 
 ---
 
-## 🔥 About Me  
+## 🪽 About Me  
 🖥️ Passionate about AI, 3D Printing, Electronics, and Automation  
 💡 Interested in Robotics, Cybersecurity, Hardware Projects, and IoT  
 ⚙️ Enjoy experimenting with innovative tech and hands-on projects  
