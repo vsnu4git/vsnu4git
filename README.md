@@ -9,11 +9,11 @@
 ---
 
 ## 🪽 About Me  
-🖥️ Passionate about AI, 3D Printing, Electronics, and Automation  
-💡 Interested in Robotics, Cybersecurity, Hardware Projects, and IoT  
-⚙️ Enjoy experimenting with innovative tech and hands-on projects  
-🚀 Always exploring new advancements in AI and embedded systems  
-🔍 Focused on solving real-world problems through technology  
+⬥ Passionate about AI, 3D Printing, Electronics, and Automation  
+⬥ Interested in Robotics, Cybersecurity, Hardware Projects, and IoT  
+⬥ Enjoy experimenting with innovative tech and hands-on projects  
+⬥ Always exploring new advancements in AI and embedded systems  
+⬥ Focused on solving real-world problems through technology  
 
 ---
 
