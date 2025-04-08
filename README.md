@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="idaiad-removebg-preview.png" alt="DiffuseAI Logo" width="46">  
+  <img src="idaiad-removebg-preview.png" alt="DiffuseAI Logo" width="50">  
   <br>CTO of DiffuseAI
 </h1>
 
