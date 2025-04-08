@@ -3,14 +3,22 @@
   <br>CTO of DiffuseAI
 </h1>
 
-<picture>
-  <source 
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+VSNU.;CTO+of+DiffuseAI.;Builder+of+things+that+think.&color=ffffff"
-    media="(prefers-color-scheme: dark)">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+VSNU.;CTO+of+DiffuseAI.;Builder+of+things+that+think.&color=000000" 
-    alt="Typing SVG" />
-</picture>
+<style>
+  .typing-wrapper img {
+    filter: invert(1);
+  }
+
+  @media (prefers-color-scheme: light) {
+    .typing-wrapper img {
+      filter: invert(0);
+    }
+  }
+</style>
+
+<p align="center" class="typing-wrapper">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+VSNU.;CTO+of+DiffuseAI.;Builder+of+things+that+think.&color=ffffff00&background=00000000" />
+</p>
+
 
 
 <p align="center">
