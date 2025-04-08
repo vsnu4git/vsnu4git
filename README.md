@@ -5,7 +5,7 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+VSNU.;CTO+of+DiffuseAI.;Builder+of+things+that+think.&color=0019ff&background=00000000" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Technovator;Neurogenius;Synthmind;Thinksmith;Machinist;Technarch;Innoventor;Mindcraftor&color=0019ff&background=00000000" media="(prefers-color-scheme: dark)" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+VSNU.;CTO+of+DiffuseAI.;Builder+of+things+that+think.&color=0019ff&background=00000000" alt="Typing SVG" />
   </picture>
 </p>
