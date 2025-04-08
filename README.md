@@ -22,7 +22,7 @@
 - 🎯 Focused on solving real-world problems through technology  
 
 ---
-
+ 
 ## 🪽 Connect With Me  
 
 <p align="left">
